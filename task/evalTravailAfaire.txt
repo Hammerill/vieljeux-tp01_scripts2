@@ -1,0 +1,9 @@
+Versions du programme à produire avant la réalisation finale : 
+
+V1.0 Afficher à l'écran la configuration de la machine locale.
+V1.1 Sauvegarder la configuration dans un fichier et l'afficher à l'écran.
+V1.2 Envoyer par mail le fichier contenant la configuration. 
+V1.3 Lancer le programme lors de la connexion d'un utilisateur. 
+
+V2.0 Écrire la version finale du programme conformément au cahier des charges ! 
+Cette version consiste à rajouter la partie "Rapport d'erreurs" à la fin du fichier "erreurs.txt".
