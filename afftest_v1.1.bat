@@ -1,5 +1,5 @@
 @echo off
 
-del ipconfig.txt
+if exist ipconfig.txt del ipconfig.txt
 ipconfig >> ipconfig.txt
 type ipconfig.txt
